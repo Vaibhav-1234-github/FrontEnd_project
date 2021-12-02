@@ -1,0 +1,227 @@
+.top-section-box{
+    background-image: url("../lecture_1/images.png");
+    background-size:  cover;
+    overflow: hidden;
+}
+
+
+.logo{
+    font-family: Poppins;
+    font-size: 70px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    line-height: 140px;
+    letter-spacing: normal;
+    color: #eb2929;
+    width: 140px;
+    height: 140px;
+    background-color: #ffffff;
+    border-radius: 50%;
+}
+
+
+.logo-position{
+
+    margin-top : 3rem;
+}
+
+.login{
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.56;
+        letter-spacing: normal;
+        color: #ffffff;
+        text-align: right;
+        padding-top : 10px;
+        margin-left: 40px;
+        margin-top: 20px;
+        overflow: hidden;
+}
+
+.create-account{
+        border: solid 1px #ffffff;
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.56;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+        padding-top : 10px;
+        padding-bottom: 10px;
+        overflow: hidden;
+        margin-top : 20px;
+        max-width: 300px;
+}
+
+
+.restaurant-heading{
+    margin-top : 2rem;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    color: #ffffff;
+} 
+
+.search-box{
+    margin-top : 4rem;
+} 
+
+
+
+
+
+.search-box-fonts{
+        font-family: Poppins;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.53;
+        letter-spacing: normal;
+        text-align: left;
+        color: #636f88;
+}
+
+.search-options{
+    margin-top : 2rem;
+
+}
+
+.location-box-design{
+    background-color: #ffffff;
+    width:100%;
+    height: 57px;
+    min-width: 200px;
+
+}
+
+
+.search-box-design{
+  background-color: #ffffff;
+  width: 100%;
+  height: 57px;
+  min-width: 200px;
+}
+
+
+.search-box-fonts{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 50px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+
+
+.b-heading{
+        font-family: Poppins;
+        font-size: 40px;
+        font-weight:bolder;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.53;
+        letter-spacing: normal;
+        color: #192f60;
+}
+
+
+
+
+.b-sub-heading{
+        font-family: Poppins;
+        font-size: 25px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        color: #8c96ab;
+}
+
+
+.shop-box-design{
+        height: 160px;
+        box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.16);
+        background-color: white;
+}
+
+.bottom-row-pos{
+    margin-top : 40px;
+}
+
+
+.shop-heading{
+        font-family: Poppins;
+        font-size: 22px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        color: #192f60;
+}
+
+.shop-subheading{
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        color: #8c96ab;
+        text-align: center;
+}
+
+
+.location-box-design{
+        margin-right : 21px;
+        margin-bottom : 10px;
+        height: 60px;
+        width: 40%;
+        background-color: #ffffff;
+        max-width : 300px;
+        min-width : 200px;
+        padding-left  : 20px;
+        overflow: hidden !important;
+}
+
+
+.search-box-design{
+        height: 60px;
+        width: 50%;
+        background-color: #ffffff;
+        max-width : 300px;
+        min-width : 200px;
+        padding-left : 20px;
+        overflow: hidden !important;
+}
+
+
+.shop-box-design{
+        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+        background-color: #ffffff;
+        /* width: 29.1%; */
+}
+
+.img-design{
+        width: 100%;
+        height : 160px;
+        object-fit: cover;
+}
